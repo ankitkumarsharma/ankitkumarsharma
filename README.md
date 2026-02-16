@@ -46,6 +46,9 @@ Consider Following my profile if you like it, for future posts and technical que
 Technologies:
 - Javascript, Type Script, Angular, React, jQuery, PWA, D3 JS, NodeJS, ExpressJS
 - Java, Python,
+- AWS, Azure, Google Cloud Platform
+- Docker, Kubernetes, Microservices, Serverless Architecture,
+- GenAI, ChatGPT, LLM, LangChain, LangGraph, Vector DB, RAG, Prompt Engineering 
 - SQL Server, MongoDB, MySQL
 - Wordpress, Magento, SEO
 - HTML/CSS/Bootstrap, SCSS, Web Designing & UX
